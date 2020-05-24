@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+h1{
+  font-size: 48px;
+  color: #066a75;
+  padding: 2px 0 10px 0;
+  font-family: Arial,sans-serif;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 30px;
+}
+img{
+	padding: 0px 0 0px 0;	
+	 position:relative;
+  padding-bottom: 30px;
+  margin: 10px 10px 10px 550px;
+}
